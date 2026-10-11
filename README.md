@@ -4,7 +4,7 @@ Declarative configuration objects with validation and defaults.
 
 ## Why
 
-Written while learning the language properly, and kept because it still works.
+Mostly written for my own projects, but it may be useful to someone else.
 
 ## Install
 
